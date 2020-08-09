@@ -35,7 +35,7 @@ A <b>few pointers</b> on me:
 - ⚡ Fun fact:Developers Learn in Multiple Ways
 -->
 ## Github Usage ~ Status 
-![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=default&private=true) 
+![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
 
 ## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL&theme=dark&show_icons=true&hide_border=true&private=true)
