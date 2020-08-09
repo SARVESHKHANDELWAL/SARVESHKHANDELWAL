@@ -23,8 +23,6 @@
 </a>
 <br/>
 <br/>
-A <b>few pointers</b> on me:
-
 - 🔭 I’m currently working on E-Commerce Website.
 - 🌱 I’m currently learning React&Redux...
 - 👯 I’m looking to collaborate with Web Developers.
