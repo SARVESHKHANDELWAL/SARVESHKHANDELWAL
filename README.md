@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 ## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
+## Links where you can find me! 
+:pushpin: &nbsp; [Website](https://aemiej.netlify.app/)  
+:pushpin: &nbsp; [Dev Blog](https://dev.to/aemiej)  
+:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/)  
+:pushpin: &nbsp; [Email](mailto:aemie.j@gmail.com)  
+:pushpin: &nbsp; <a href="#">[Resume]</a>
+
