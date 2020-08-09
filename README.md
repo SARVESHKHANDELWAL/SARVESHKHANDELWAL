@@ -1,12 +1,12 @@
-### Hola, I'm Sarvesh Khandelwal!  👋
+## Hola, I'm Sarvesh Khandelwal!  👋
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/sarveshkhande17">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/SARVESHKHANDELWAL">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/imthepk">
