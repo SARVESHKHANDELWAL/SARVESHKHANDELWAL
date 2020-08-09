@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ## Links where you can find me! 
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)  
 :pushpin: &nbsp; [Email](mailto:sarveshk21122001@gmail.com)  
-:pushpin: &nbsp; <a href="#">Resume</a>
+:pushpin: &nbsp; <a href="resume.pdf">Resume</a>
 
