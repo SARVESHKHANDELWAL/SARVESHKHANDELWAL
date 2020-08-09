@@ -1,5 +1,5 @@
 ### Hola, I'm Sarvesh Khandelwal!  👋
-
+<hr style="width:50%,height:1px">
 
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Developers Learn in Multiple Ways
 -->
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL">
+## Github Usage ~ Status 
+![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
