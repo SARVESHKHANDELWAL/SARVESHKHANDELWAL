@@ -23,7 +23,7 @@
 </a>
 <br/>
 <br/>
-Here are some ideas to get you started:
+A <b>few pointers</b> on me:
 
 - 🔭 I’m currently working on E-Commerce Website.
 - 🌱 I’m currently learning React&Redux...
