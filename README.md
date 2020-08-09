@@ -43,5 +43,5 @@ A <b>few pointers</b> on me:
 ## Links where you can find me! 
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)  
 :pushpin: &nbsp; [Email](mailto:sarveshk21122001@gmail.com)  
-:pushpin: &nbsp; <a href="resume.pdf">Resume</a>
+:pushpin: &nbsp; <a href="https://github.com/SARVESHKHANDELWAL/SARVESHKHANDELWAL/blob/master/resume.pdf">Resume</a>
 
