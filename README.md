@@ -23,9 +23,6 @@
 </a>
 <br/>
 <br/>
-[![Twitter: sarveshkhande17](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/sarveshkhande17)
-[![Linkedin: sarvesh-khandelwal-206b171a7/](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)
-[![GitHub SARVESHKHANDELWAL](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/SARVESHKHANDELWAL)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on E-Commerce Website.
@@ -37,6 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Developers Learn in Multiple Ways
 -->
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 ## Github Usage ~ Status 
 ![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
 
