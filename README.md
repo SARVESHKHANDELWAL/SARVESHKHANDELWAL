@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with Web Developers.
 - 🤔 I’m looking for help with Developers.
 - 💬 Ask me about any thing...
-- 📫 How to reach me: [Twitter - @sarveshkhande17](https://twitter.com/sarveshkhande17) , [Linkdin- @sarvesh-khandelwal-206b171a7/](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Developers Learn in Multiple Ways
 -->
