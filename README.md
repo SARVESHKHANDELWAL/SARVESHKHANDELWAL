@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Github Usage ~ Status 
 ![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
+
+## Language Usage ~ Status
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+
