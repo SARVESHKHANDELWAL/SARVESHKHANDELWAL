@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/sarvesh.khandelwal.904">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/Sarvesh Khandelwal">
+<a href="https://www.youtube.com/channel/UCUsm4CzN7eCAnuG-alfY7vw">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
