@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Developers Learn in Multiple Ways
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
