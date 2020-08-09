@@ -23,7 +23,9 @@
 </a>
 <br/>
 <br/>
-
+[![Twitter: sarveshkhande17](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/sarveshkhande17)
+[![Linkedin: sarvesh-khandelwal-206b171a7/](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)
+[![GitHub SARVESHKHANDELWAL](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/SARVESHKHANDELWAL)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on E-Commerce Website.
