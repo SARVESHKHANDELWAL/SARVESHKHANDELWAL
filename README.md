@@ -36,7 +36,7 @@ A <b>few pointers</b> on me:
 ![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
 
 ## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL&theme=dark&compact=layout&show_icons=true&hide_border=true&private=true)
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=SARVESHKHANDELWAL&theme=dark&layout=compact&show_icons=true&hide_border=true&private=true)
 
 ## Links where you can find me! 
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)  
