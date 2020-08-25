@@ -24,8 +24,8 @@
 
 A <b>few pointers</b> on me:
 
-- 🔭 I’m currently working on E-Commerce Website.
-- 🌱 I’m currently learning React&Redux...
+- 🔭 I’m currently working on live website
+- 🌱 I’m currently learning Angular...
 - 👯 I’m looking to collaborate with Web Developers.
 - 🤔 I’m looking for help with Developers.
 - 💬 Ask me about any thing...
