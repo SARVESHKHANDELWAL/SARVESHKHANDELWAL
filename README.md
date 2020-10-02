@@ -1,4 +1,4 @@
-## Hola, I'm <a>Sarvesh Khandelwal!</a>  👋
+## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://twitter.com/sarveshkhande17">
   <img align="left" alt="Sarvesh's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
