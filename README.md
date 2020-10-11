@@ -24,19 +24,19 @@
 
 A <b>few pointers</b> on me:
 
-🌱 I’m currently learning to contribute to OPEN SOURCE
+- 🌱 I’m currently learning **ReactJs**
 
-👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on **Github**
 
-🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to **Open Source projects**
 
-👨‍💻 All of my projects are available at https://github.com/SARVESHKHANDELWAL
+- 👨‍💻 All of my projects are available at [https://github.com/SARVESHKHANDELWAL](https://github.com/SARVESHKHANDELWAL)
 
-💬 Ask me about Web Development.
+- 💬 Ask me about **Web Development**
 
-📫 How to reach me: Gmail - sarveshk21122001@gmail.com , Twitter - @sarveshkhande17
+- 📫 How to reach me: [Gmail - @sarvesh](mailto:sarveshk21122001@gmail.com), [Twitter - @sarveshkhande17](https://twitter.com/sarveshkhande17)
 
-⚡ Fun fact Coffee is Love
+- ⚡ Fun fact **Coffee is Love**
 
 -->
 ## Github Usage ~ Status 
