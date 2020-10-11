@@ -24,13 +24,20 @@
 
 A <b>few pointers</b> on me:
 
-- 🔭 I’m currently working on live website
-- 🌱 I’m currently learning Angular...
-- 👯 I’m looking to collaborate with Web Developers.
-- 🤔 I’m looking for help with Developers.
-- 💬 Ask me about any thing...
-- 😄 Pronouns:He/His
-- ⚡ Fun fact:Developers Learn in Multiple Ways
+🌱 I’m currently learning to contribute to OPEN SOURCE
+
+👯 I’m looking to collaborate on Github 
+
+🥅 2020 Goals: Contribute more to Open Source projects
+
+👨‍💻 All of my projects are available at https://github.com/SARVESHKHANDELWAL
+
+💬 Ask me about Web Development.
+
+📫 How to reach me: Gmail - sarveshk21122001@gmail.com , Twitter - @sarveshkhande17
+
+⚡ Fun fact Coffee is Love
+
 -->
 ## Github Usage ~ Status 
 ![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
