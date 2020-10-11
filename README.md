@@ -25,7 +25,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### A passionate Software and Web developer from India
+### A passionate Web developer from India
 
 - 🌱 I’m currently learning **ReactJs**
 
