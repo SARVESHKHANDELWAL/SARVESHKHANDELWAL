@@ -1,5 +1,6 @@
 ## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+### Connect with me: <img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">
 <a href="https://twitter.com/sarveshkhande17">
   <img align="left" alt="Sarvesh's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -40,7 +41,6 @@
 
 - ⚡ Fun fact **Coffee is Love**
 
--->
 ## Github Usage ~ Status 
 ![SARVESHKHANDELWAL's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=SARVESHKHANDELWAL&show_icons=true&hide_border=true&theme=dark&private=true) 
 
