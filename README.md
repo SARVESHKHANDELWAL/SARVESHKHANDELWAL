@@ -1,7 +1,7 @@
 ## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Connect with me: <img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">
-<a href="https://twitter.com/sarveshkhande17">
+<a href="https://twitter.com/SarveshKhande16">
   <img align="left" alt="Sarvesh's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/">
