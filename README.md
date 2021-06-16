@@ -50,7 +50,7 @@
 ## Links where you can find me! 
 :pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/sarvesh-khandelwal-206b171a7/)  
 :pushpin: &nbsp; [Email](mailto:sarveshk21122001@gmail.com)  
-:pushpin: &nbsp; <a href="https://drive.google.com/file/d/1wrXqgJRf-57WAxt3q3xhXa3prc7rhC8Z/view?usp=sharing">Resume</a>
+:pushpin: &nbsp; <a href="https://drive.google.com/file/d/1CzRXZw2GxE8TVVA6DdlBzDt5SUibniSo/view?usp=sharing">Resume</a>
 
 ## Visitors
  <img src="https://profile-counter.glitch.me/SARVESHKHANDELWAL/count.svg" />
