@@ -27,15 +27,15 @@
 
 ### A passionate Web developer from India
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🥅 2020 Goals: Contribute more to **Open Source projects**
+- 🥅 2021 Goals: Contribute more to **TO MAKE BIG IMPACT-2021**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SARVESHKHANDELWAL](https://github.com/SARVESHKHANDELWAL)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **TECH TALKS**
 
 - 📫 How to reach me: [Gmail - @sarvesh](mailto:sarveshk21122001@gmail.com), [Twitter - @sarveshkhande17](https://twitter.com/sarveshkhande17)
 
