@@ -1,4 +1,4 @@
-## Hola, I'm <a>Sarvesh Khandelwal!</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, I'm <a>Sarvesh Khandelwal!</a>
 
 ### Connect with me: <!--<img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">-->
 <a href="https://twitter.com/SarveshKhande16">
