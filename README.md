@@ -1,4 +1,10 @@
-## Hola, I'm <a>Sarvesh Khandelwal!</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Sarvesh.;Welcome+to+my+profile!&center=true&size=32">
+  </a>
+  <br>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="300px">
+</h1>
 
 ### Connect with me: <!--<img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">-->
 <a href="https://twitter.com/SarveshKhande16">
@@ -20,11 +26,12 @@
   <img align="left" alt="Sarvesh's Youtube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+
 <br/>
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ -->
 ### A passionate Web developer from India
 
 - 🌱 I’m currently learning **Angular**
